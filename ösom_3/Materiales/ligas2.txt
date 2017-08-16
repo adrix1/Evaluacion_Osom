@@ -1,0 +1,15 @@
+Desktop
+
+http://bebitos.mx.s3.amazonaws.com/static/images/site/Noviembre/30/habitacion_660x325.jpg
+
+http://bebitos.mx.s3.amazonaws.com/static/images/site/Noviembre/30/juegosmesa_660x325.jpg
+
+http://bebitos.mx.s3.amazonaws.com/static/images/site/Noviembre/30/frozen_660x325.jpg
+
+Movil
+
+http://bebitos.mx.s3.amazonaws.com/static/images/site/Noviembre/30/mobile_juegosmesa_450x200.jpg
+
+http://bebitos.mx.s3.amazonaws.com/static/images/site/Noviembre/30/mobile_frozen_450x200.jpg
+
+http://bebitos.mx.s3.amazonaws.com/static/images/site/Noviembre/30/mobile_habitacion_450x200.jpg

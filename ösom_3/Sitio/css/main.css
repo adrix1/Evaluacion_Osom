@@ -1,0 +1,43 @@
+body {
+    background-image: url(../img/mu2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;    
+}
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+p {
+    font-size: 1.4em;
+}
+.navbar-nav {
+    margin: 20px;
+    font-size: 1.5em;
+}
+.imagenes {
+    width: 100%;    
+}
+#vision {
+    padding-bottom: 6px;
+}
+.productos {
+    width: 235px;
+    height: 260px;
+    margin-bottom: 51px;
+}
+.guias {
+    color: #ed6e77;
+}
+@media (max-width: 1680px) { 
+    #rosa {
+       display: none;
+    }
+}
+@media (max-width: 700px) {
+    #blanco {
+       display: none;
+    }
+    #rosa {
+       display: block;
+    }
+}
